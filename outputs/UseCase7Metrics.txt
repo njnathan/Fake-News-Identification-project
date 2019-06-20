@@ -1,0 +1,34 @@
+Random Forest Metrics:
+	 Number of true positives =  43
+	 Number of true negatives =  409
+	 Number of false positives =  41
+	 Number of false negatives =  7
+	 Accuracy =  90.4 %
+	 Prevalence =  10.0 %
+	 Positive Predictive Value/Precision =  51.19 %
+	 True Positive Rate/Recall =  86.0 %
+	 Negative Predictive Value =  98.32 %
+	 False Positive Rate/Fall-Out =  9.11 %
+	 False Discovery Rate =  48.81 %
+	 False Omission Rate =  1.68 %
+	 False Negative Rate =  14.0 %
+	 True Negative Rate =  90.89 %
+	 F1 Score =  0.64
+	 Youden's J score =  0.77
+DNN Metrics:
+	 Number of true positives =  48
+	 Number of true negatives =  419
+	 Number of false positives =  31
+	 Number of false negatives =  2
+	 Accuracy =  93.4 %
+	 Prevalence =  10.0 %
+	 Positive Predictive Value/Precision =  60.76 %
+	 True Positive Rate/Recall =  96.0 %
+	 Negative Predictive Value =  99.52 %
+	 False Positive Rate/Fall-Out =  6.89 %
+	 False Discovery Rate =  39.24 %
+	 False Omission Rate =  0.48 %
+	 False Negative Rate =  4.0 %
+	 True Negative Rate =  93.11 %
+	 F1 Score =  0.74
+	 Youden's J score =  0.89

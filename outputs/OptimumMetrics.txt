@@ -1,0 +1,17 @@
+DNN Metrics:
+	 Number of true positives =  237
+	 Number of true negatives =  234
+	 Number of false positives =  16
+	 Number of false negatives =  13
+	 Accuracy =  94.2 %
+	 Prevalence =  50.0 %
+	 Positive Predictive Value/Precision =  93.68 %
+	 True Positive Rate/Recall =  94.8 %
+	 Negative Predictive Value =  94.74 %
+	 False Positive Rate/Fall-Out =  6.4 %
+	 False Discovery Rate =  6.32 %
+	 False Omission Rate =  5.26 %
+	 False Negative Rate =  5.2 %
+	 True Negative Rate =  93.6 %
+	 F1 Score =  0.94
+	 Youden's J score =  0.88
